@@ -25,7 +25,7 @@ const UserHeader = ({ user }) => {
           <p>{user.basics.label}</p>
           <p>Coding in {user.basics.region}</p>
           <p>
-            {user.basics.yearsOfExperience} years of experience as a developer
+            {user.basics.yearsOfExperience} year of experience as a developer
           </p>
           <p>{user.basics.headline}</p>
           <p>
